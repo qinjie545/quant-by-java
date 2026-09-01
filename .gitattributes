@@ -1,0 +1,5 @@
+*.java whitespace=cr-at-eol
+*.md whitespace=cr-at-eol
+*.xml whitespace=cr-at-eol
+*.bat whitespace=cr-at-eol
+*.cmd whitespace=cr-at-eol
